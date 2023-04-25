@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "389901607389",
+    "project_id": "oak-foodapp",
+    "storage_bucket": "oak-foodapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389901607389:android:9702b9b63485145af6d634",
+        "android_client_info": {
+          "package_name": "com.example.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389901607389-2e2thficf1ja7d220vh6u23glvt3v6rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDodVBa_NWfEIPwaTWpBZ9osyegprzDa_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389901607389-2e2thficf1ja7d220vh6u23glvt3v6rl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
